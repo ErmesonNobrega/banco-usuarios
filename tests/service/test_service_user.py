@@ -1,13 +1,12 @@
 
 class TestServiceUser:
 
-    def test_add_user(self):
+    def test_add_user(self, name, job):
         pass
 
-    def delete_user(self):
+    def test_search_user(self, name):
         pass
 
-    def seach_user(self):
+    def test_remove_user(self, name):
         pass
-
 
